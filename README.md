@@ -1,15 +1,19 @@
 ### Hi 👋 I am Andrei
 
-Hi, I'm a Software Engineer, and for the last two and a half years I've been a Data Engineer. I am really passionate about the data field! I am always learning and tunning my technical skills to become a better Data Engineer.
+## Thanks for visit my github profile!
+
+I'm a Software Engineer, and for the last two and a half years I've been a Data Engineer. I am really passionate about the data field! I am always learning and tunning my technical skills to become a better Data Engineer.
 
 Check out some of the projects I have worked on!
 
-I am currently learning:
-
+👨‍🎓 I am currently learning:
 Microsoft Azure
-
 Apache Spark
 
+Here are some of my certifications:
+ <li class="masthead__menu-item">
+    <a href="https://www.credly.com/badges/c0fd4988-36d1-40dd-a51d-d24921ff36df/linked_in_profile">Research</a>
+  </li>
 
 Check out my LinkedIn profile
 <br/>
