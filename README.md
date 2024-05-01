@@ -2,6 +2,13 @@
 
 Hi, I'm a Software Engineer, and for the last two and a half years I've been a Data Engineer. I am really passionate about the data field! I am always learning and tunning my technical skills to become a better Data Engineer.
 
+Check out some of the projects I have worked on!
+
+I am currently learning:
+Microsoft Azure
+Apache Spark
+
+
 Check out my LinkedIn profile
 
 <br/>
