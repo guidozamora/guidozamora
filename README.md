@@ -4,18 +4,16 @@
 
 I'm a Software Engineer, and for the last two and a half years I've been a Data Engineer. I am really passionate about the data field! I am always learning and tunning my technical skills to become a better Data Engineer.
 
-Check out some of the projects I have worked on!
+
 
 👨‍🎓 I am currently learning:
-- Microsoft Azure
-- Apache Spark
+  - Microsoft Azure
+  - Apache Spark
 
 Here are some of my certifications:
 <br>
-<a href="https://www.credly.com/badges/c0fd4988-36d1-40dd-a51d-d24921ff36df/linked_in_profile">Microsoft Certified Azure Fundamentals</a>
-</br>
-<br>
-<a href="https://app.dataquest.io/verify_cert/TQK5SPXHNFVQ37IF65RQ/">Data Analyst in Python</a>
+- <a href="https://www.credly.com/badges/c0fd4988-36d1-40dd-a51d-d24921ff36df/linked_in_profile">Microsoft Certified Azure Fundamentals</a>
+- <a href="https://app.dataquest.io/verify_cert/TQK5SPXHNFVQ37IF65RQ/">Data Analyst in Python</a>
 </br>
 
 
