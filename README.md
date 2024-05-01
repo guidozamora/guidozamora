@@ -11,9 +11,10 @@ Microsoft Azure
 Apache Spark
 
 Here are some of my certifications:
- <li>
- <a href="https://www.credly.com/badges/c0fd4988-36d1-40dd-a51d-d24921ff36df/linked_in_profile">Microsoft Certified Azure Fundamentals</a>
- </li>
+<br>
+<a href="https://www.credly.com/badges/c0fd4988-36d1-40dd-a51d-d24921ff36df/linked_in_profile">Microsoft Certified Azure Fundamentals</a>
+</br>
+
 
 
 Check out my LinkedIn profile
